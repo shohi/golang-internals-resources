@@ -27,10 +27,19 @@ This is a curated collection of Articles and Videos about Golang internals. It i
 ### Hacking the Golang Type System
 [Hacking Go's type system](https://katcipis.github.io/blog/hack-go-types/) by Tiago Katcipis
 
+
+## Error Handling
+
+[Understanding Go panic output](https://joeshaw.org/understanding-go-panic-output/) by Joe Shaw
+
+
+
 ## Concurrency Primitives
 
 ### Goroutines
 [How Goroutines Work](http://blog.nindalf.com/how-goroutines-work/) by Krishna Sundarram
+
+[Golang源码探索(二) 协程的实现原理](https://www.cnblogs.com/zkweb/p/7815600.html) by zkweb
 
 ### Channels
 [Channels in Golang](http://www.tapirgames.com/blog/golang-channel) by @TapirLiu
@@ -48,6 +57,8 @@ This is a curated collection of Articles and Videos about Golang internals. It i
 
 [Go's work-stealing scheduler](https://rakyll.org/scheduler/) by Jaana B. Dogan
 
+[Go 系列文章4 : 调度器](https://github.com/cch123/golang-notes/blob/master/scheduler.md) Series of Blog Posts by Xargin
+
 ### Timers
 [How Do They Do It: Timers in Go](https://lk4d4.darth.io/posts/go-timers/) by Alexander Morozov
 
@@ -63,6 +74,8 @@ This is a curated collection of Articles and Videos about Golang internals. It i
 
 [Request Oriented Collector (ROC) Algorithm](https://golang.org/s/gctoc) by Rick Hudson and Austin Clements and
 _[discussion at golang-dev](https://groups.google.com/d/topic/golang-dev/WcZaqTE51ZU/discussion)_
+
+[Golang源码探索(三) GC的实现原理](https://www.cnblogs.com/zkweb/p/7880099.html) by zkweb
 
 ## Compilation
 [A Quick Guide to Go's Assembler](https://golang.org/doc/asm) from the Go Documentation
@@ -83,6 +96,21 @@ Assignment Form](http://pp.info.uni-karlsruhe.de/uploads/publikationen/braun13cc
 
 [A Linear Time Algorithm for Placing Φ-Nodes](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.8.1979&rep=rep1&type=pdf) by Sreedhar & Gao
 
+### Bound-Check-Elimination
+[Bounds Check Elimination In Go] https://www.ardanlabs.com/blog/2018/04/bounds-check-elimination-in-go.html by William Kennedy
+
+## Linker
+
+[Go toolchain internals and implementation based on arm64](https://www.youtube.com/watch?v=vEQaHspyY3M) talk by 肖玮
+
+[Internals of the Go Linker](https://www.youtube.com/watch?v=NLl5zwl9Hk8) talk by Jessie Frazelle
+
 ## General
 
 A lot of other information can be gathered from the [Go Design Documents](https://github.com/golang/go/wiki/DesignDocuments) and from the (now defunct) [Unofficial Go Internals wiki](http://web.archive.org/web/20150716120037/http://goin.wikispot.org/)
+
+## Other Resources
+
+[go-internals](https://github.com/teh-cmc/go-internals) by Clement 'cmc' Rey
+
+[go-101](https://go101.org/article/101.html) by Go101
