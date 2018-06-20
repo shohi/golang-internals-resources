@@ -15,6 +15,8 @@ This is a curated collection of Articles and Videos about Golang internals. It i
 
 [Inside the Map Implementation](https://youtu.be/Tl7mi9QmLns) Talk by Keith Randall
 
+[How the Go runtime implements maps efficiently (without generics)](https://dave.cheney.net/2018/05/29/how-the-go-runtime-implements-maps-efficiently-without-generics) by Dave Cheney
+
 ### Interfaces
 [Go Data Structures: Interfaces](https://research.swtch.com/interfaces) by Russ Cox
 
@@ -23,7 +25,7 @@ This is a curated collection of Articles and Videos about Golang internals. It i
 [Understanding Go Interfaces](https://www.youtube.com/watch?v=F4wUrj6pmSI) Talk by Francesc Campoy
 
 ### Hacking the Golang Type System
-[Hacking Go's type system](https://katcipis.github.io/2017/04/21/hack-go-types.html) by Tiago Katcipis
+[Hacking Go's type system](https://katcipis.github.io/blog/hack-go-types/) by Tiago Katcipis
 
 ## Concurrency Primitives
 
