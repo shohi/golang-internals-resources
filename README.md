@@ -114,3 +114,5 @@ A lot of other information can be gathered from the [Go Design Documents](https:
 [go-internals](https://github.com/teh-cmc/go-internals) by Clement 'cmc' Rey
 
 [go-101](https://go101.org/article/101.html) by Go101
+
+[浅谈 Go 语言实现原理](https://draveness.me/golang/) by draveness
