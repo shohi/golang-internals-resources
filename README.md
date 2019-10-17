@@ -33,7 +33,6 @@ This is a curated collection of Articles and Videos about Golang internals. It i
 [Understanding Go panic output](https://joeshaw.org/understanding-go-panic-output/) by Joe Shaw
 
 
-
 ## Concurrency Primitives
 
 ### Goroutines
